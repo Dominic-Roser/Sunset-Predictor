@@ -3,6 +3,8 @@
 
 # **Download TensorFlow**
 
+[TensorFlow 2.16.1 full instructions](https://www.tensorflow.org/install/pip#linux)
+
 ## MacOS
 
 `python3 -m pip install tensorflow`
