@@ -1,22 +1,3 @@
-# Activate Virtual Environment 
-**VERY IMPORTANT DO NOT SKIP STEP**
-
-Before running any file or importing any library, ensure the venv is active!
-
-To activate run the following:
-
-Windows
-
-`sunset-env/bin/activate`
-
-macOS/Linux
-
-`source sunset-env/bin/activate`
-
-When active your terminal will display a prefix
-
-`(sunset-env) <your source filepath>`
-
 # Homebrew
 
 Package manager installation used with node.js 
