@@ -35,7 +35,7 @@ Verify the installation:
 `python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"`
 
 
-## Windows
+## Windows/Linux
 
 `python3 -m pip istall tensorflow[and-cuda]`
 
@@ -44,23 +44,15 @@ Verify the installation:
 `python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"`
 
 
-## Linux
-
-`python3 -m pip install tensorflow[and-cuda]`
-
-Verify the installation:
-
-`python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"`
-
-# Download Django 5.0.7
+# Download Django
 
 ## Windows 
 
-`py -m pip install Django==5.0.7`
+`py -m pip install Django`
 
 ## Linux/MacOS
 
-`python -m pip install Django==5.0.7`
+`python3 -m pip install Django`
 
 # Verify installation 
 
