@@ -64,7 +64,13 @@ Windows
 
 Activate the venv
 
+Mac/Linux
+
 `source <venv-filepath>/bin/activate`
+
+Windows 
+
+`<venv-filepath>/bin/activate`
 
 to deactivate
 
