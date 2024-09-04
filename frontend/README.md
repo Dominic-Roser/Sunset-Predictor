@@ -17,6 +17,13 @@ When active your terminal will display a prefix
 
 `(sunset-env) <your source filepath>`
 
+# Homebrew
+
+Package manager installation used with node.js 
+
+https://brew.sh/
+
+
 # Node.js
 
 ## Windows
