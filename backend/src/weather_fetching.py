@@ -1,7 +1,8 @@
 # import openmeteo_requests #type: ignore
-import numpy
-
-# import requests_cache #type: ignore
+import numpy as np
+arr = np.array([[1,2,3],[3,4,5],[5,6,7]])
+print(arr)
+# import requests_cachen #type: ignore
 # import pandas as pd #type: ignore
 # from retry_requests import retry 
 
