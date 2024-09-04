@@ -45,3 +45,35 @@ hierarchy of work
 
 -suggestions for alpha improvements
 
+
+# Virtual Environment Setup
+
+**1.**
+
+Create the directory and files 
+
+Mac/Linux
+`python3 -m venv <venv-name> <filepath>`
+
+Windows
+`python -m venv <venv-name> <filepath>`
+
+**IMPORTANT: DO NOT create the venv inside the repo directory, store it locally on your computer somewhere**
+
+2. 
+
+Activate the venv
+
+`source <venv-filepath>/bin/activate`
+
+to deactivate
+
+just use the `deactivate` command 
+
+3. 
+
+Go to backend and frontend directories and follow the download instructions 
+
+**IMPORTANT: download all package files into the venv while it is activated**
+
+
