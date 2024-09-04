@@ -69,9 +69,9 @@ instead of the local python filepath
 
 ## Install:
 
-`pip install openmeteo-requests`
+`pip3 install openmeteo-requests`
 
-`pip install requests-cache retry-requests numpy pandas`
+`pip3 install requests-cache retry-requests numpy pandas`
 
 For more information go to (https://open-meteo.com/en/docs)
 
