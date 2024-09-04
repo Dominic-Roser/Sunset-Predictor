@@ -62,3 +62,9 @@ Verify the installation:
 
 `python -m pip install Django==5.0.7`
 
+# Verify installation 
+
+To check the modules you have downloaded
+
+`pip3 list`
+
