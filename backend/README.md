@@ -68,3 +68,13 @@ Occasionally due to vscode run configurations, it will run the local python kern
 
 instead of the local python filepath
 
+# Download Weather Forecast API
+
+## Install:
+
+`pip install openmeteo-requests`
+
+`pip install requests-cache retry-requests numpy pandas`
+
+For more information go to (https://open-meteo.com/en/docs)
+
