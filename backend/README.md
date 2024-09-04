@@ -1,3 +1,18 @@
+# Activate Virtual Environment 
+**VERY IMPORTANT DO NOT SKIP STEP**
+Before running any file or importing any library, ensure the venv is active!
+
+To activate run the following:
+
+Windows 
+`sunset-env/bin/activate`
+
+macOS/Linux
+`source sunset-env/bin/activate`
+
+When active your terminal will display a prefix
+`(sunset-env) <your source filepath>`
+
 # Download Python
 [Python 3.11.9](https://www.python.org/downloads/release/python-3119/)
 
@@ -6,6 +21,8 @@
 [TensorFlow 2.16.1 full instructions](https://www.tensorflow.org/install/pip#linux)
 
 ## MacOS
+
+Ensure that the venv is 
 
 `python3 -m pip install tensorflow`
 
