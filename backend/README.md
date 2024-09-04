@@ -60,3 +60,11 @@ To check the modules you have downloaded
 
 `pip3 list`
 
+# Running files 
+
+Occasionally due to vscode run configurations, it will run the local python kernel in the venv. :( to fix this just run 
+
+`python3 <filepath>`
+
+instead of the local python filepath
+
