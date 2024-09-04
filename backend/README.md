@@ -1,7 +1,4 @@
-# Activate Virtual Environment 
-**VERY IMPORTANT DO NOT SKIP STEP**
-
-Before running any file or importing any library, ensure the venv is active!
+# Activate Virtual Environment (maybe) ask first
 
 To activate run the following:
 
