@@ -1,5 +1,6 @@
 # import openmeteo_requests #type: ignore
 import numpy
+
 # import requests_cache #type: ignore
 # import pandas as pd #type: ignore
 # from retry_requests import retry 
