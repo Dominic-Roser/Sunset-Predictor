@@ -18,7 +18,7 @@ Verify the installation:
 
 ## Windows/Linux
 
-`python3 -m pip istall tensorflow[and-cuda]`
+`python3 -m pip install tensorflow[and-cuda]`
 
 Verify the installation:
 
