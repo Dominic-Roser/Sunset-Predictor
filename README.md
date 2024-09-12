@@ -70,7 +70,7 @@ Mac/Linux
 
 Windows 
 
-`<venv-filepath>/bin/activate`
+`<venv-filepath>/bin/activate.ps1`
 
 to deactivate
 
