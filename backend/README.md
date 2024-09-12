@@ -1,19 +1,3 @@
-# Activate Virtual Environment (maybe) ask first
-
-To activate run the following:
-
-Windows
-
-`sunset-env/bin/activate`
-
-macOS/Linux
-
-`source sunset-env/bin/activate`
-
-When active your terminal will display a prefix
-
-`(sunset-env) <your source filepath>`
-
 # Download Python
 [Python 3.11.9](https://www.python.org/downloads/release/python-3119/)
 
@@ -69,9 +53,9 @@ instead of the local python filepath
 
 ## Install:
 
-`pip install openmeteo-requests`
+`pip3 install openmeteo-requests`
 
-`pip install requests-cache retry-requests numpy pandas`
+`pip3 install requests-cache retry-requests numpy pandas`
 
 For more information go to (https://open-meteo.com/en/docs)
 
